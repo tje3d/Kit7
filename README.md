@@ -1,4 +1,4 @@
-# 🚀 Kit7 - Enterprise User Management System
+# 🚀 Kit7 - Enterprise Starter Template
 
 [![Svelte](https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev)
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-2-FF3E00?logo=svelte&logoColor=white)](https://kit.svelte.dev)
@@ -7,10 +7,11 @@
 [![Bun](https://img.shields.io/badge/Bun-Runtime-000000?logo=bun&logoColor=white)](https://bun.sh)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://docker.com)
 
-A modern, high-performance enterprise user management dashboard. Built with the latest stack for speed, reliability, and developer experience.
+A modern, high-performance starter template for enterprise user management dashboards. Built with the latest stack to provide a production-ready foundation for your next SvelteKit project.
 
 ## ✨ Features
 
+- **🏗️ Production-Ready Foundation**: A robust boilerplate designed to jumpstart your enterprise application development.
 - **⚡ Next-Gen Performance**: Built on Svelte 5 and SvelteKit 2 for blazing-fast interactions and SSR support.
 - **👥 Full User Lifecycle**: Seamlessly create, read, update, and delete users with a polished interface.
 - **🔍 Advanced Search & Filtering**: Real-time user search with URL-persistent state for easy sharing and bookmarking.
