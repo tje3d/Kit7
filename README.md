@@ -9,8 +9,6 @@
 
 A modern, high-performance enterprise user management dashboard. Built with the latest stack for speed, reliability, and developer experience.
 
-![Dashboard Preview](https://raw.githubusercontent.com/your-username/kit7/main/static/preview.png) *(Add a screenshot here)*
-
 ## ✨ Features
 
 - **⚡ Next-Gen Performance**: Built on Svelte 5 and SvelteKit 2 for blazing-fast interactions and SSR support.
@@ -43,7 +41,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/kit7.git
+   git clone https://github.com/tje3d/Kit7.git
    cd kit7
    ```
 
@@ -120,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by [Your Name](https://github.com/your-username)
+Built with ❤️ by [tje3d](https://github.com/tje3d)
